@@ -72,4 +72,4 @@ void mapperSetState(Mapper *mapper, int state)
     }
     mapper->state = (char)state;
     return;
-}
+} Chokbar de malde !
